@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>➡️Discord Bots<br>➡️Full Stack Projects<br>➡️Portfolio Website<br>🌱 I’m currently learning Vue.js
+🔭 I'm currently working on<br>➡️Discord Bots<br>➡️Full Stack Projects<br>➡️Portfolio Website<br>🌱 I’m currently learning Vue.js with NoSQL using MongoDB
 
 
 # 💻 Tech Stack:
